@@ -1,6 +1,6 @@
 descriptionUrl https://raw.githubusercontent.com/agendrel/trackhub/main/description.html
-hub L1_repression_activation_ASE_RNA-seq_unique_PGK
+hub L1_repression_ASE_RNA-seq_unique_PGK
 shortLabel L1_ASE_RNA-seq_unique_PGK Hub
-longLabel Hub containing ASE RNA-seq signal tracks generated allowing multi-mapping of L1 repression and activation libraries from Anne-Valerie Gendrel and annotated PGK SNPs
+longLabel Hub containing ASE RNA-seq signal tracks generated allowing multi-mapping of L1 repression libraries from Anne-Valerie Gendrel and annotated PGK SNPs
 genomesFile genomes.txt
 email anne.gendrel@medicina.ulisboa.pt
