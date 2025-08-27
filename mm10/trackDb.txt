@@ -1,6 +1,6 @@
 track ASE-PGKrnaSeq_unique_LKF-A6-dox_rep1_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765cd7325693cdc2298/display?to_ext=bigwig
-shortLabel LKF-A6-dox_rep1_fwd
+shortLabel LKF-A6_rep1_fwd
 longLabel Unique mapping LKF-A6-dox_rep1_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -11,7 +11,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6-dox_rep1_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6-dox_rep2_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765a09f6dca0735f099/display?to_ext=bigwig
-shortLabel LKF-A6-dox_rep2_fwd
+shortLabel LKF-A6_rep2_fwd
 longLabel Unique mapping LKF-A6-dox_rep2_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -22,7 +22,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6-dox_rep2_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep1_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765728e5d2007dc973a/display?to_ext=bigwig
-shortLabel LKF-A6plusdox_rep1_fwd
+shortLabel LKF-A6_dox_rep1_fwd
 longLabel Unique mapping LKF-A6plusdox_rep1_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -33,7 +33,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep1_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765cb335be47cc208f3/display?to_ext=bigwig
-shortLabel LKF-A6plusdox_rep2_fwd
+shortLabel LKF-A6_dox_rep2_fwd
 longLabel Unique mapping LKF-A6plusdox_rep2_Gall_sorted_fwd
 type bigWig
 visibility full
