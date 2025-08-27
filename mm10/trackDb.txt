@@ -1,6 +1,6 @@
 track ASE-PGKrnaSeq_unique_LKF-A6-dox_rep1_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765cd7325693cdc2298/display?to_ext=bigwig
-shortLabel LKF-A6-dox_rep1_Gall_sorted_fwd - unique
+shortLabel LKF-A6-dox_rep1_fwd
 longLabel Unique mapping LKF-A6-dox_rep1_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -11,7 +11,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6-dox_rep1_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6-dox_rep2_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765a09f6dca0735f099/display?to_ext=bigwig
-shortLabel LKF-A6-dox_rep2_Gall_sorted_fwd - unique
+shortLabel LKF-A6-dox_rep2_fwd
 longLabel Unique mapping LKF-A6-dox_rep2_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -22,7 +22,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6-dox_rep2_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep1_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765728e5d2007dc973a/display?to_ext=bigwig
-shortLabel LKF-A6plusdox_rep1_Gall_sorted_fwd - unique
+shortLabel LKF-A6plusdox_rep1_fwd
 longLabel Unique mapping LKF-A6plusdox_rep1_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -33,7 +33,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep1_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765cb335be47cc208f3/display?to_ext=bigwig
-shortLabel LKF-A6plusdox_rep2_Gall_sorted_fwd - unique
+shortLabel LKF-A6plusdox_rep2_fwd
 longLabel Unique mapping LKF-A6plusdox_rep2_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -44,7 +44,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6-dox_rep1_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765be5d3d6d2e0054f8/display?to_ext=bigwig
-shortLabel LKF-A6-dox_rep1_Gall_sorted_rv - unique
+shortLabel LKF-A6-dox_rep1_rv
 longLabel Unique mapping LKF-A6-dox_rep1_Gall_sorted_rv
 type bigWig
 visibility full
@@ -55,7 +55,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6-dox_rep1_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6-dox_rep2_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765348a75b3d1905b2c/display?to_ext=bigwig
-shortLabel LKF-A6-dox_rep2_Gall_sorted_rv - unique
+shortLabel LKF-A6-dox_rep2_rv
 longLabel Unique mapping LKF-A6-dox_rep2_Gall_sorted_rv
 type bigWig
 visibility full
@@ -66,7 +66,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6-dox_rep2_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep1_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765e8be9669dabaa583/display?to_ext=bigwig
-shortLabel LKF-A6plusdox_rep1_Gall_sorted_rv - unique
+shortLabel LKF-A6plusdox_rep1_rv
 longLabel Unique mapping LKF-A6plusdox_rep1_Gall_sorted_rv
 type bigWig
 visibility full
@@ -77,7 +77,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep1_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676513229c113d0f7e5b/display?to_ext=bigwig
-shortLabel LKF-A6plusdox_rep2_Gall_sorted_rv - unique
+shortLabel LKF-A6plusdox_rep2_rv
 longLabel Unique mapping LKF-A6plusdox_rep2_Gall_sorted_rv
 type bigWig
 visibility full
@@ -88,7 +88,7 @@ html ASE-PGKrnaSeq_unique_LKF-A6plusdox_rep2_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5-dox_rep1_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765d7527c50a33c518b/display?to_ext=bigwig
-shortLabel AKF-B5-dox_rep1_Gall_sorted_fwd - unique
+shortLabel AKF-B5-dox_rep1_fwd
 longLabel Unique mapping AKF-B5-dox_rep1_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -99,7 +99,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5-dox_rep1_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5-dox_rep2_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867653abb7a82c40c9440/display?to_ext=bigwig
-shortLabel AKF-B5-dox_rep2_Gall_sorted_fwd - unique
+shortLabel AKF-B5-dox_rep2_fwd
 longLabel Unique mapping AKF-B5-dox_rep2_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -110,7 +110,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5-dox_rep2_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep1_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765df8eabfdb5ab1448/display?to_ext=bigwig
-shortLabel AKF-B5plusdox_rep1_Gall_sorted_fwd - unique
+shortLabel AKF-B5plusdox_rep1_fwd
 longLabel Unique mapping AKF-B5plusdox_rep1_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -121,7 +121,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep1_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep2_Gall_sorted_fwd
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765a5eaf50808fe02f7/display?to_ext=bigwig
-shortLabel AKF-B5plusdox_rep2_Gall_sorted_fwd - unique
+shortLabel AKF-B5plusdox_rep2_fwd
 longLabel Unique mapping AKF-B5plusdox_rep2_Gall_sorted_fwd
 type bigWig
 visibility full
@@ -132,7 +132,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep2_Gall_sorted_fwd.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5-dox_rep1_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867654c546ce25a835692/display?to_ext=bigwig
-shortLabel AKF-B5-dox_rep1_Gall_sorted_rv - unique
+shortLabel AKF-B5-dox_rep1_rv
 longLabel Unique mapping AKF-B5-dox_rep1_Gall_sorted_rv
 type bigWig
 visibility full
@@ -143,7 +143,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5-dox_rep1_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5-dox_rep2_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765c6ffe6eecdf1ca5a/display?to_ext=bigwig
-shortLabel AKF-B5-dox_rep2_Gall_sorted_rv - unique
+shortLabel AKF-B5-dox_rep2_rv
 longLabel Unique mapping AKF-B5-dox_rep2_Gall_sorted_rv
 type bigWig
 visibility full
@@ -154,7 +154,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5-dox_rep2_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep1_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765aad9f6858520ba59/display?to_ext=bigwig
-shortLabel AKF-B5plusdox_rep1_Gall_sorted_rv - unique
+shortLabel AKF-B5plusdox_rep1_rv
 longLabel Unique mapping AKF-B5plusdox_rep1_Gall_sorted_rv
 type bigWig
 visibility full
@@ -165,7 +165,7 @@ html ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep1_Gall_sorted_rv.html
 
 track ASE-PGKrnaSeq_unique_AKF-B5plusdox_rep2_Gall_sorted_rv
 bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765bd373cc40933ece9/display?to_ext=bigwig
-shortLabel AKF-B5plusdox_rep2_Gall_sorted_rv - unique
+shortLabel AKF-B5plusdox_rep2_rv
 longLabel Unique mapping AKF-B5plusdox_rep2_Gall_sorted_rv
 type bigWig
 visibility full
