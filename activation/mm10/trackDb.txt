@@ -1,1 +1,264 @@
+track ASE-PGKrnaSeq_unique_VPR-B4_A_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676572e8202260fd09bb/display?to_ext=bigwig
+shortLabel VPR-B4_A_fwd
+longLabel Unique mapping VPR-B4_A_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_A_Gall_sorted_fwd.html
 
+track ASE-PGKrnaSeq_unique_VPR-B4_A_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867655ce6c3486314e802/display?to_ext=bigwig
+shortLabel VPR-B4_A_rv
+longLabel Unique mapping VPR-B4_A_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_A_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676538794203d666f0a4/display?to_ext=bigwig
+shortLabel VPR-B4_A_dox_fwd
+longLabel Unique mapping VPR-B4_A_dox_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_A_dox_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B4_A_dox_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765b5e84fb2e1b5298b/display?to_ext=bigwig
+shortLabel VPR-B4_A_dox_rv
+longLabel Unique mapping VPR-B4_A_dox_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_A_dox_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-B4_B_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765fe0bae63654c6df3/display?to_ext=bigwig
+shortLabel VPR-B4_B_fwd
+longLabel Unique mapping VPR-B4_B_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_B_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B4_B_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867651428ec4aef35328b/display?to_ext=bigwig
+shortLabel VPR-B4_B_rv
+longLabel Unique mapping VPR-B4_B_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_B_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-B4_B_dox_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765c7de85e72ac42dbb/display?to_ext=bigwig
+shortLabel VPR-B4_B_dox_fwd
+longLabel Unique mapping VPR-B4_B_dox_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_B_dox_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B4_B_dox_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676509943e2466bc2f30/display?to_ext=bigwig
+shortLabel VPR-B4_B_dox_rv
+longLabel Unique mapping VPR-B4_B_dox_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B4_B_dox_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_A_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765c6047786d345205d/display?to_ext=bigwig
+shortLabel VPR-D4_A_fwd
+longLabel Unique mapping VPR-D4_A_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_A_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_A_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676574b2bd303e9fd57c/display?to_ext=bigwig
+shortLabel VPR-D4_A_rv
+longLabel Unique mapping VPR-D4_A_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_A_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_A_dox_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765a7b84e479f000173/display?to_ext=bigwig
+shortLabel VPR-D4_A_dox_fwd
+longLabel Unique mapping VPR-D4_A_dox_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_A_dox_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_A_dox_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765100d4c783c2653ef/display?to_ext=bigwig
+shortLabel VPR-D4_A_dox_rv
+longLabel Unique mapping VPR-D4_A_dox_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_A_dox_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_B_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676543e16204593d9044/display?to_ext=bigwig
+shortLabel VPR-D4_B_fwd
+longLabel Unique mapping VPR-D4_B_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_B_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_B_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676503532b6458686022/display?to_ext=bigwig
+shortLabel VPR-D4_B_rv
+longLabel Unique mapping VPR-D4_B_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_B_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_B_dox_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867659e76cb5a64eefd89/display?to_ext=bigwig
+shortLabel VPR-D4_B_dox_fwd
+longLabel Unique mapping VPR-D4_B_dox_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_B_dox_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-D4_B_dox_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867654d074d35062136d4/display?to_ext=bigwig
+shortLabel VPR-D4_B_dox_rv
+longLabel Unique mapping VPR-D4_B_dox_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-D4_B_dox_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_A_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676500013e9fe1958406/display?to_ext=bigwig
+shortLabel VPR-B7_A_fwd
+longLabel Unique mapping VPR-B7_A_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_A_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_A_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d867653ec73454d03f5bc2/display?to_ext=bigwig
+shortLabel VPR-B7_A_rv
+longLabel Unique mapping VPR-B7_A_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_A_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_A_dox_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765fefeab5ba117a387/display?to_ext=bigwig
+shortLabel VPR-B7_A_dox_fwd
+longLabel Unique mapping VPR-B7_A_dox_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_A_dox_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_A_dox_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676555e3c4111f8f2051/display?to_ext=bigwig
+shortLabel VPR-B7_A_dox_rv
+longLabel Unique mapping VPR-B7_A_dox_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_A_dox_Gall_sorted_rv.html
+
+
+track ASE-PGKrnaSeq_unique_VPR-B7_B_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765fd9cc16eb39eef8c/display?to_ext=bigwig
+shortLabel VPR-B7_B_fwd
+longLabel Unique mapping VPR-B7_B_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_B_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_B_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676595e32eefd6563f21/display?to_ext=bigwig
+shortLabel VPR-B7_B_rv
+longLabel Unique mapping VPR-B7_B_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_B_Gall_sorted_rv.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_B_dox_Gall_sorted_fwd
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d86765a2d07c58e46fe1b6/display?to_ext=bigwig
+shortLabel VPR-B7_B_dox_fwd
+longLabel Unique mapping VPR-B7_B_dox_Gall_sorted_fwd
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_B_dox_Gall_sorted_fwd.html
+
+track ASE-PGKrnaSeq_unique_VPR-B7_B_dox_Gall_sorted_rv
+bigDataUrl https://usegalaxy.eu/api/datasets/4838ba20a6d8676564fcfa7fd04e83e6/display?to_ext=bigwig
+shortLabel VPR-B7_B_dox_rv
+longLabel Unique mapping VPR-B7_B_dox_Gall_sorted_rv
+type bigWig
+visibility full
+autoScale on
+color 165,42,42
+maxHeightPixels 60
+html ASE-PGKrnaSeq_unique_VPR-B7_B_dox_Gall_sorted_rv.html
